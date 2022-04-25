@@ -1,2 +1,2 @@
 # CV
-A CV created using HTML
+A Resume created using HTML
